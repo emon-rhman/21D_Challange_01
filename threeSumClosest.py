@@ -19,7 +19,6 @@ def threeSumClosest(nums, target):
 
     return closest
 
-
 # test
 nums = [-1, 2, 1, -4]
 target = 1
